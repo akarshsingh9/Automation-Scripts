@@ -1,0 +1,1 @@
+.\restore.ps1 -LPDatabaseServer "LW-AKARSH" -TargetDBs "delete_test" -BackUpDBSourcePath "D:\\lw_intermediate.bak"
