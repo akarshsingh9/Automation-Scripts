@@ -1,0 +1,1 @@
+Write-RsFolderContent -ReportServerUri http://lw-akarsh:84/ReportServer -Path "D:\rdl\" -Destination /CommerzBank -Overwrite -Verbose
